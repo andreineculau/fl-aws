@@ -45,3 +45,11 @@ We will not inflict a change in their reply style "I have +1 you on our internal
 If you too are working on the AWS platform, feel free to [submit a new issue](https://github.com/andreineculau/fl-aws/issues/new) or [submit a PR with a BCP proposal](https://github.com/andreineculau/fl-aws/compare).
 
 There are plenty and there will be even more people that will want to get their hands dirty with AWS. Help them make an informed decision.
+
+
+**NOTE**: https://github.com/open-guides/og-aws is great, but it fills a different void.
+
+
+## License
+
+[Apache 2.0](LICENSE)
