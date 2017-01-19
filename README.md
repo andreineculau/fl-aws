@@ -1,6 +1,9 @@
 # fl-aws (Flaws at AWS)
 
-Use this Repo to [submit and discuss issues](https://github.com/andreineculau/fl-aws/issues) concerning Amazon Web Services.
+Use this repo to
+
+* [submit and discuss issues](https://github.com/andreineculau/fl-aws/issues) concerning Amazon Web Services.
+* [submit BCP proposals](https://github.com/andreineculau/fl-aws/compare) for working with Amazon Web Services.
 
 **This Repo is NOT affiliated with AWS or Amazon.**
 
